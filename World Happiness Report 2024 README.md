@@ -1,0 +1,3 @@
+The World Happiness Report measures the overall state of global happiness by factoring in each country's status in economy, health, social support, government trust, etc. and ranks the countries by how happy their citizens perceive themselves to be. Since it covers different factors, it can be a useful guide to measure policy effectiveness and good governance and assess the quality of life among countries.
+
+Delved into visualizing happiness score distributions among countries, identifying key determinants and their relationships, and employing ML Linear Regression to validate the model utilized in the analysis.
